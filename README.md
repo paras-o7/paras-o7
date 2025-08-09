@@ -7,5 +7,6 @@ Currently learning:
 My environment:
 
 ![Fedora](https://img.shields.io/badge/fedora-000000?style=for-the-badge&logo=fedora&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-000000?style=for-the-badge&logo=neovim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)
