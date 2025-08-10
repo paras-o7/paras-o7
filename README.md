@@ -1,8 +1,8 @@
-Pursuing CSE @ Delhi Technological University 
+Pursuing CSE @ Delhi Technological University (Formerly Delhi College of Engineering)
 
 Currently learning:
 
-<img src="https://skillicons.dev/icons?i=c,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux" />
 
 My environment:
 
