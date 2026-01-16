@@ -2,7 +2,7 @@ Pursuing CSE @ Delhi Technological University (Formerly Delhi College of Enginee
 
 Currently learning:
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,python,opencv" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,python,opencv,pytorch" />
 
 My environment:
 
