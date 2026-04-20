@@ -1,15 +1,15 @@
-Pursuing CSE @ Delhi Technological University (Formerly Delhi College of Engineering)
+# Hey! I'm Paras
 
-Currently learning:
+Pursuing CompSci @ Delhi Technological University (Formerly Delhi College of Engineering)
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,python,opencv,pytorch" />
+- Busy learning
+  
+  <img src="https://skillicons.dev/icons?i=c,linux,python,opencv,pytorch" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 
-My environment:
+- Preparing for [DARPA Triage Challenge, Event 3](https://www.darpa.mil/research/challenges/darpa-triage-challenge/events#event-3)
+- Member of Team UAS-DTU
 
-![Fedora](https://img.shields.io/badge/fedora-000000?style=for-the-badge&logo=fedora&logoColor=white)
-![Neovim](https://img.shields.io/badge/neovim-000000?style=for-the-badge&logo=neovim&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Obsidian](https://img.shields.io/badge/obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)
 ___
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e5d1ebdc-fd37-4b30-a892-9fb4acda7ceb" />
